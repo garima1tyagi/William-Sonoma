@@ -1,0 +1,19 @@
+.product-table {
+    .product-container {
+        .product-wrapper {
+            height: 500px;
+            padding-top: 16px;
+
+            .high-price {
+                text-decoration-line: line-through;
+                color: red;
+            }
+            .hero-image {
+                width: 100%;
+                border: 1px solid #d4cdcd;
+                cursor: pointer;
+            }
+        }
+
+    }
+}
